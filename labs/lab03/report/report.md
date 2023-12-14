@@ -1,8 +1,8 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Oтчёт по лабораторной работе №3"
+subtitle: "Markdown"
+author: "Руденко Михаил Андреевич"
 
 ## Generic otions
 lang: ru-RU
